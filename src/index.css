@@ -1,0 +1,131 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  :root {
+    --font-display: 'Outfit', system-ui, sans-serif;
+    --font-sans: 'Plus Jakarta Sans', system-ui, sans-serif;
+    --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+  }
+
+  body {
+    font-family: var(--font-sans);
+  }
+
+  h1, h2, h3, h4, .font-display {
+    font-family: var(--font-display);
+  }
+
+  code, pre, .font-mono {
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Global Animated Train Keyframes */
+@keyframes rail-slide-rtl {
+  0% {
+    transform: translate3d(108vw, 0, 0);
+  }
+  100% {
+    transform: translate3d(-48vw, 0, 0);
+  }
+}
+
+@keyframes rail-slide-ltr {
+  0% {
+    transform: translate3d(-48vw, 0, 0);
+  }
+  100% {
+    transform: translate3d(108vw, 0, 0);
+  }
+}
+
+@keyframes rail-curve-float {
+  0% {
+    transform: translate3d(-42vw, 22px, 0) rotate(-2deg);
+  }
+  25% {
+    transform: translate3d(15vw, -16px, 0) rotate(1.2deg);
+  }
+  50% {
+    transform: translate3d(52vw, 18px, 0) rotate(-1.4deg);
+  }
+  75% {
+    transform: translate3d(82vw, -14px, 0) rotate(1.5deg);
+  }
+  100% {
+    transform: translate3d(110vw, 14px, 0) rotate(-1deg);
+  }
+}
+
+@keyframes rail-shuttle-bidir {
+  0% {
+    transform: translate3d(-32vw, 10px, 0) scaleX(1) rotate(0.6deg);
+  }
+  22% {
+    transform: translate3d(42vw, -14px, 0) scaleX(1) rotate(-1deg);
+  }
+  45% {
+    transform: translate3d(88vw, 8px, 0) scaleX(1) rotate(0.5deg);
+  }
+  50% {
+    transform: translate3d(92vw, 8px, 0) scaleX(-1) rotate(0deg);
+  }
+  74% {
+    transform: translate3d(38vw, -12px, 0) scaleX(-1) rotate(-1deg);
+  }
+  96% {
+    transform: translate3d(-28vw, 10px, 0) scaleX(-1) rotate(0.5deg);
+  }
+  100% {
+    transform: translate3d(-32vw, 10px, 0) scaleX(1) rotate(0.6deg);
+  }
+}
+
+@keyframes rail-track-dash {
+  0% {
+    stroke-dashoffset: 48;
+  }
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+
+.animate-rail-ltr {
+  animation: rail-slide-ltr 24s linear infinite;
+  will-change: transform;
+}
+
+.animate-rail-rtl {
+  animation: rail-slide-rtl 30s linear infinite;
+  will-change: transform;
+}
+
+.animate-rail-curve {
+  animation: rail-curve-float 22s linear infinite;
+  will-change: transform;
+}
+
+.animate-rail-bidir {
+  animation: rail-shuttle-bidir 34s ease-in-out infinite;
+  will-change: transform;
+}
+
+.animate-rail-track {
+  animation: rail-track-dash 1.4s linear infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-rail-ltr,
+  .animate-rail-rtl,
+  .animate-rail-curve,
+  .animate-rail-bidir,
+  .animate-rail-track {
+    animation: none !important;
+  }
+}

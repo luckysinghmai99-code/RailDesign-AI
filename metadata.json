@@ -1,0 +1,6 @@
+{
+  "name": "RailDesign AI",
+  "description": "Full-stack AI creative engineering platform with six independent engines for web, UI/UX, graphics, code, animation, and testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
