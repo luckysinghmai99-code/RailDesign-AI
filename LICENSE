@@ -1,0 +1,472 @@
+RAIL DESIGN AI
+
+PROPRIETARY SOFTWARE LICENSE AGREEMENT
+
+Official Project Name: Rail Design AI
+License File Name: LICENSE
+License Type: Proprietary Software License
+License Version: 1.0
+Document Status: Initial License Draft
+Effective Date: November 23, 2026
+Rights Holder: Rail Design AI, subject to verification of lawful ownership.
+
+---
+
+PART I — GENERAL PROVISIONS
+
+1. PURPOSE AND SCOPE
+
+This Proprietary Software License Agreement ("Agreement") establishes the terms and conditions governing the use, access, installation, operation, modification, distribution, and commercial exploitation of software identified as Rail Design AI.
+
+This Agreement applies to the original software components and intellectual property rights lawfully owned by Rail Design AI.
+
+It is intended to protect the legitimate intellectual property interests of the software owner while establishing clear permissions and restrictions for authorized users.
+
+2. DEFINITIONS
+
+For this Agreement:
+
+Software: The Rail Design AI platform, applications, source code, executable code, interfaces, modules, services, and related original materials.
+
+Company: Rail Design AI, the project or business name associated with the software.
+
+Licensor: The lawful owner or authorized licensing party.
+
+Licensee: An individual or organization receiving permission to use the software.
+
+Source Code: Human-readable programming code and related development files.
+
+Object Code: Compiled, executable, packaged, or machine-readable software.
+
+Documentation: Manuals, technical specifications, guides, installation instructions, and related materials.
+
+Authorized User: A person permitted to use the software under an applicable license.
+
+Third-Party Component: Any component owned, licensed, or provided by another individual or organization.
+
+Derivative Work: A modification or adaptation of protected software, to the extent recognized by applicable law.
+
+Commercial Use: Use of the software in connection with business operations, paid services, subscriptions, or commercial products.
+
+3. OWNERSHIP
+
+3.1 Rail Design AI retains all intellectual property rights that it lawfully owns in its original software components.
+
+3.2 Protected materials may include:
+
+- Original source code.
+- Original software architecture.
+- Original application modules.
+- Original user interface designs.
+- Original visual assets.
+- Original graphics and icons.
+- Original documentation.
+- Original configuration files.
+- Original scripts and automation tools.
+- Original database implementation.
+- Original software integrations developed by the owner.
+
+3.3 Access to the software does not transfer ownership.
+
+3.4 No licensee may claim ownership of the original proprietary components merely because they have received access to, downloaded, installed, or used the software.
+
+3.5 Third-party materials remain owned by their respective rights holders.
+
+4. RESERVATION OF RIGHTS
+
+All rights not expressly granted under an applicable written license remain reserved to their respective lawful owners.
+
+Nothing in this Agreement should be interpreted as granting unrestricted rights to reproduce, distribute, sublicense, sell, or commercially exploit proprietary materials.
+
+5. LICENSE GRANT
+
+5.1 Subject to the applicable license terms, the Licensor may grant permission to authorized users to operate the software.
+
+5.2 Unless a separate written agreement provides otherwise, the permission granted is:
+
+- Limited.
+- Non-exclusive.
+- Non-transferable.
+- Non-sublicensable.
+- Subject to applicable restrictions.
+
+5.3 This Agreement does not constitute a sale of the software or its intellectual property.
+
+5.4 Additional commercial permissions may be provided through separate written agreements.
+
+---
+
+PART II — SOFTWARE USAGE RIGHTS
+
+6. AUTHORIZED USE
+
+Authorized users may use the software within the scope of the license granted to them.
+
+Permitted activities may include:
+
+- Installing authorized versions.
+- Accessing permitted application features.
+- Operating the software for approved purposes.
+- Using authorized integrations.
+- Accessing documentation.
+- Using supported functionality.
+- Creating and managing authorized projects.
+
+Any additional rights must be established through an applicable license or written agreement.
+
+7. PROHIBITED ACTIVITIES
+
+Without appropriate authorization, users must not:
+
+1. Redistribute proprietary copies of the software.
+2. Sell unauthorized copies.
+3. Publish protected source code.
+4. Remove applicable ownership notices.
+5. Misrepresent themselves as the software owner.
+6. Create unauthorized commercial replicas.
+7. Circumvent access controls.
+8. Extract confidential proprietary materials.
+9. Distribute unauthorized modified versions.
+10. Use the software in violation of applicable law.
+
+These restrictions apply only to the extent permitted by applicable law and do not override rights granted by third-party licenses.
+
+8. COPYING AND REPRODUCTION
+
+8.1 Reproduction of protected proprietary materials requires authorization unless permitted by law.
+
+8.2 Authorized backup copies may be made where permitted by the applicable license and law.
+
+8.3 Distribution of copies to unauthorized parties is prohibited.
+
+8.4 Any permitted reproduction must preserve required notices and attributions.
+
+9. MODIFICATION AND CUSTOMIZATION
+
+9.1 Modification of proprietary components requires the appropriate authorization where applicable.
+
+9.2 Authorized developers may modify software within the scope of their development permissions.
+
+9.3 Customization rights do not automatically transfer ownership of the underlying software.
+
+9.4 Ownership of commissioned developments and independently created contributions must be established through applicable contracts and law.
+
+9.5 Third-party components remain governed by their own licenses.
+
+10. REVERSE ENGINEERING
+
+To the extent permitted by applicable law, users must not reverse engineer, decompile, disassemble, or attempt to extract protected proprietary source code without authorization.
+
+Nothing in this section restricts activities that cannot legally be prohibited, including applicable statutory interoperability rights.
+
+---
+
+PART III — INTELLECTUAL PROPERTY PROTECTION
+
+11. SOURCE CODE RIGHTS
+
+11.1 Original source code lawfully owned by Rail Design AI is protected under applicable intellectual property laws.
+
+11.2 Source-code access does not grant unrestricted redistribution or resale rights.
+
+11.3 Developers must respect confidentiality and access restrictions established by their agreements.
+
+11.4 Source-code ownership must be determined according to actual authorship, employment arrangements, assignments, and applicable law.
+
+12. APPLICATION ARCHITECTURE
+
+Original architecture, implementation details, and proprietary technical designs may be protected to the extent recognized by applicable law.
+
+Unauthorized copying of protected original implementation materials is prohibited.
+
+13. USER INTERFACE AND DESIGNS
+
+Original interface layouts, graphics, illustrations, and visual materials may be protected under applicable copyright and design laws.
+
+This provision does not claim exclusive ownership of general design concepts, standard interface patterns, or independently created designs.
+
+14. TRADEMARKS AND BRANDING
+
+The name Rail Design AI and its associated logos or brand assets may be subject to trademark protection.
+
+No licensee automatically receives permission to register or use confusingly similar branding.
+
+Use of company branding must be authorized where required.
+
+This Agreement does not establish that a trademark registration has already been obtained.
+
+15. DOCUMENTATION
+
+Original technical documentation and written materials may be protected by copyright.
+
+Users may access documentation for authorized software operation.
+
+Commercial reproduction or redistribution requires permission where applicable.
+
+---
+
+PART IV — THIRD-PARTY SOFTWARE
+
+16. OPEN-SOURCE COMPONENTS
+
+16.1 The software may incorporate open-source libraries, frameworks, tools, or dependencies.
+
+16.2 Such components remain subject to their original licenses.
+
+16.3 This Agreement does not replace or override third-party license terms.
+
+16.4 Any applicable attribution, notice, source-disclosure, or redistribution obligations must be respected.
+
+16.5 Where a third-party license grants rights that conflict with a restriction in this Agreement, the applicable third-party license governs that component.
+
+17. EXTERNAL SERVICES AND APIs
+
+The software may connect to external providers, APIs, hosting platforms, authentication services, payment processors, or cloud infrastructure.
+
+Such services remain subject to their respective terms and conditions.
+
+Rail Design AI does not claim ownership of external provider services.
+
+18. THIRD-PARTY BRANDING
+
+Third-party company names, logos, trademarks, and product identities remain the property of their respective owners.
+
+Their appearance in the software does not imply ownership or endorsement.
+
+---
+
+PART V — SECURITY AND RESPONSIBLE USE
+
+19. SECURITY REQUIREMENTS
+
+Users must not:
+
+- Access systems without authorization.
+- Bypass authentication mechanisms.
+- Circumvent permission controls.
+- Introduce malicious software.
+- Interfere with service availability.
+- Exploit vulnerabilities unlawfully.
+- Access another user's private information.
+- Use the platform for unlawful purposes.
+
+20. SECURITY TESTING
+
+Security testing must be conducted only with appropriate authorization.
+
+Responsible vulnerability reporting is encouraged.
+
+Testing must respect the agreed scope and must not disrupt services or expose private information.
+
+21. ACCOUNT RESPONSIBILITY
+
+Users are responsible for maintaining the confidentiality of their account credentials.
+
+Users must promptly report suspected unauthorized account access.
+
+Account security procedures may be established through separate platform policies.
+
+22. DATA PROTECTION
+
+22.1 Users remain responsible for data they upload or process.
+
+22.2 Personal information must be handled according to applicable privacy laws.
+
+22.3 Separate privacy policies and data-processing agreements may apply.
+
+22.4 This license does not grant unrestricted access to customer data.
+
+22.5 Data retention, deletion, backups, and incident response must follow applicable policies and legal obligations.
+
+---
+
+PART VI — COMMERCIAL TERMS
+
+23. COMMERCIAL LICENSING
+
+Commercial usage rights may be granted through separate written agreements.
+
+Such agreements may specify:
+
+- Authorized business activities.
+- Number of permitted users.
+- Deployment rights.
+- Distribution permissions.
+- Subscription terms.
+- Commercial restrictions.
+- Support arrangements.
+- License duration.
+
+24. SUBSCRIPTIONS AND PAYMENTS
+
+Subscription fees, payment methods, billing periods, renewals, cancellations, and refunds are governed by the applicable commercial terms.
+
+This Agreement does not independently establish a subscription price.
+
+25. RESELLING AND WHITE-LABEL RIGHTS
+
+Resale, sublicensing, white-label distribution, and commercial redistribution require separate authorization where applicable.
+
+No automatic resale or white-label permission is granted by this Agreement.
+
+26. ENTERPRISE LICENSING
+
+Enterprise permissions may be established through a separate enterprise agreement.
+
+Such agreements may define deployment environments, support obligations, service levels, security requirements, and commercial usage rights.
+
+27. CUSTOMER RIGHTS
+
+Nothing in this Agreement removes mandatory consumer rights or other non-waivable legal protections.
+
+Customers retain rights in their own data and independently owned materials.
+
+---
+
+PART VII — WARRANTIES AND LIABILITY
+
+28. SOFTWARE AVAILABILITY
+
+Unless expressly promised in a separate written agreement, no guarantee is made that the software will always be available, uninterrupted, error-free, or compatible with every system.
+
+29. WARRANTY DISCLAIMER
+
+To the maximum extent permitted by applicable law, the software is provided on an "AS IS" and "AS AVAILABLE" basis.
+
+Implied warranties are excluded only to the extent such exclusion is legally permitted.
+
+30. LIMITATION OF LIABILITY
+
+30.1 To the maximum extent permitted by applicable law, the Licensor will not be liable for indirect, incidental, special, or consequential damages arising from unauthorized or improper use.
+
+30.2 Nothing in this Agreement excludes liability that cannot legally be excluded.
+
+30.3 Any additional liability limitations must comply with mandatory consumer-protection and contractual laws.
+
+31. BACKUPS AND RECOVERY
+
+Unless separately agreed, users and operators are responsible for maintaining appropriate backups of their data.
+
+Backup retention, restoration, and disaster recovery commitments must be specified in the relevant service agreement.
+
+32. EXTERNAL PROVIDER DEPENDENCIES
+
+Third-party hosting, cloud services, APIs, DNS providers, payment systems, and authentication providers may be subject to independent availability and operational conditions.
+
+Those services remain governed by their respective providers' terms.
+
+---
+
+PART VIII — TERMINATION AND ENFORCEMENT
+
+33. TERMINATION
+
+A license may expire or be terminated according to its applicable terms.
+
+Serious violations may result in suspension or termination of authorization, subject to applicable law and contractual requirements.
+
+34. EFFECT OF TERMINATION
+
+Following lawful termination, the licensee must discontinue use to the extent required by the applicable agreement.
+
+Any obligations that legally survive termination will remain effective.
+
+35. INTELLECTUAL PROPERTY ENFORCEMENT
+
+Unauthorized exploitation of protected intellectual property may result in legal remedies where supported by applicable law.
+
+Any enforcement action must respect applicable procedural and substantive legal requirements.
+
+36. INDEMNIFICATION
+
+Any indemnification obligations must be established in an applicable written agreement and interpreted subject to applicable law.
+
+No unlimited indemnification obligation is created merely by this section.
+
+---
+
+PART IX — LEGAL AND ADMINISTRATIVE TERMS
+
+37. GOVERNING LAW
+
+The governing law and jurisdiction must be identified in a finalized version of this Agreement.
+
+Mandatory legal protections remain applicable regardless of contractual wording.
+
+38. DISPUTE RESOLUTION
+
+The parties should attempt to resolve disputes through good-faith communication where appropriate.
+
+Mediation, arbitration, or court proceedings may be used according to the applicable agreement and law.
+
+39. SEVERABILITY
+
+If any provision is found invalid or unenforceable, the remaining provisions will continue to apply to the extent legally permitted.
+
+40. NO WAIVER
+
+Failure to enforce a provision does not automatically constitute a permanent waiver of that provision.
+
+41. ASSIGNMENT
+
+A licensee may not transfer or sublicense its license without the required authorization, except where applicable law provides otherwise.
+
+42. ENTIRE AGREEMENT
+
+This Agreement governs the licensing matters addressed herein, subject to applicable written agreements, third-party licenses, privacy policies, and mandatory law.
+
+43. AMENDMENTS
+
+Any revision must be made through an appropriately authorized written update.
+
+The version number and effective date should be updated when material changes are made.
+
+44. ELECTRONIC ACCEPTANCE
+
+Where legally valid, acceptance may be recorded electronically through an appropriate agreement process.
+
+The applicable consent and notice requirements must be followed.
+
+45. LANGUAGE AND INTERPRETATION
+
+This Agreement is written in English.
+
+If translated, the applicable governing agreement should specify which version controls in the event of a discrepancy, subject to mandatory law.
+
+---
+
+PART X — FINAL LICENSE DECLARATION
+
+This document establishes the proposed proprietary software licensing framework for Rail Design AI.
+
+It is intended to protect original software materials lawfully owned by the project owner while respecting the rights of customers, contributors, developers, open-source projects, and third-party service providers.
+
+No provision claims ownership over materials belonging to another rights holder.
+
+No provision removes rights that cannot legally be restricted.
+
+Any commercial license, ownership assignment, contributor agreement, or enterprise authorization must be documented separately where necessary.
+
+---
+
+LICENSE INFORMATION
+
+Project Name: Rail Design AI
+
+File Name: LICENSE
+
+License Type: Proprietary Software License Agreement
+
+Version: 1.0
+
+Effective Date: November 23, 2026
+
+Rights Holder: Rail Design AI, subject to verification of lawful ownership.
+
+Document Status: Initial Draft — Legal Review Required.
+
+Rights Notice:
+
+All rights in original materials are reserved to their respective lawful owners, subject to applicable third-party licenses and mandatory legal rights.
+
+END OF LICENSE AGREEMENT.
