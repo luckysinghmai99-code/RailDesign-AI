@@ -1,8 +1,9 @@
-# RailDesign AI — crawler access policy
-# Public pages may be crawled. Keep private dashboards, APIs, and account data out of search indexes.
+# RailDesignAI - Robots and AI Crawler Policy
 
 User-agent: *
 Allow: /
+
+# Private areas
 Disallow: /api/
 Disallow: /dashboard/
 Disallow: /admin/
@@ -11,4 +12,5 @@ Disallow: /settings/
 Disallow: /login
 Disallow: /signup
 
+# Sitemap
 Sitemap: https://raildesignai.online/sitemap.xml
