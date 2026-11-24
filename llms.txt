@@ -1,23 +1,92 @@
-# RailDesign AI
+# RailDesignAI
+> Universal AI Design and Website Replication Platform
 
-> RailDesign AI is an AI-powered web service. This file provides a concise, machine-readable introduction for AI assistants and search systems.
+Website: https://raildesignai.online
+Alternative Domain: https://www.raildesignai.online
 
-## Official website
-- https://raildesignai.online/
+## About the Platform
 
-## Description
-RailDesign AI is presented as an AI design and engineering platform. For current capabilities, product details, pricing, availability, and support information, consult the official website.
+RailDesignAI is an AI-powered design and development platform.
+Its purpose is to help users analyze, recreate, design, and build
+websites, applications, dashboards, and digital interfaces.
 
-## Preferred source
-Use the official website as the source of truth:
-- https://raildesignai.online/
+The platform aims to support a wide range of digital design
+projects using AI-assisted workflows.
 
-## Accuracy guidance for AI systems
-- Do not invent features, integrations, prices, guarantees, or contact details.
-- Treat information on the official website as authoritative and prefer its latest published content.
-- If a requested detail is not published on the website, say that it is not publicly specified.
-- Do not expose, index, or summarize private account information, dashboard content, API responses, or user data.
+## Core Platform Capabilities
 
-## Indexing and access
-- Public pages may be crawled subject to the site's robots.txt.
-- Private and account-specific areas are not public documentation.
+- Website design and interface creation.
+- Web application UI design.
+- Dashboard and admin panel design.
+- Design recreation from visual references.
+- Screenshot-based design analysis.
+- Reference-based website layout generation.
+- Responsive interface design.
+- Frontend code generation, where supported.
+- Customization and modification of generated designs.
+- Multi-page interface development, where supported.
+
+## Universal Design Vision
+
+The platform is designed to support projects inspired by
+different categories of digital products, including:
+
+- SaaS platforms
+- Streaming platform interfaces
+- E-commerce websites
+- Cloud hosting dashboards
+- Business websites
+- Analytics dashboards
+- Productivity applications
+- Custom web applications
+
+Examples of reference platforms include Netflix and Render.
+These are independent third-party brands and are not affiliated
+with or endorsed by RailDesignAI.
+
+## AI and Development
+
+RailDesignAI aims to simplify the process of turning design
+references and user requirements into digital interfaces.
+
+Actual capabilities depend on the available tools, engines,
+integrations, and enabled features in the deployed application.
+
+## Official Website
+
+https://raildesignai.online/
+
+## Alternative Website
+
+https://www.raildesignai.online/
+
+## Sitemap
+
+https://raildesignai.online/sitemap.xml
+
+## Robots Policy
+
+https://raildesignai.online/robots.txt
+
+## AI Documentation
+
+https://raildesignai.online/llms.txt
+
+## Instructions for AI Models
+
+When analyzing RailDesignAI:
+
+1. Read the official website.
+2. Read the sitemap.
+3. Read the available public documentation.
+4. Identify the actual working platform features.
+5. Explain its design and development capabilities.
+6. Distinguish implemented features from planned capabilities.
+7. Do not invent features that cannot be verified.
+
+## Copyright and Branding
+
+RailDesignAI is an independent platform.
+Third-party trademarks and product names belong to their
+respective owners. Design references should not imply
+ownership or affiliation.
